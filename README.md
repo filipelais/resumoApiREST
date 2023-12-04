@@ -1,6 +1,6 @@
-<h1>API REST e RESTful</h1> 
+<h1>ResumoApiREST</h1> 
 
-## A API REST 
+## API REST e RESTful 
 (Representational State Transfer) é um conjunto de regras que guiam a comunicação entre serviços web usando HTTP. Ela possibilita a troca eficaz de informações entre sistemas distintos, baseando-se na identificação de recursos por URIs. Para operar nesse modelo, são empregados métodos como GET, POST, PUT e DELETE para manipular esses recursos. Uma API REST é flexível, escalável e adere ao princípio de statelessness, ou seja, não armazena informações sobre o cliente entre interações.
 
 ## Princípios da abordagem RESTful:
@@ -35,6 +35,8 @@ Os códigos de status HTTP indicam o resultado da requisição:
 + 3xx: Redirecionamento - Mais ações necessárias para completar a requisição.
 + 4xx: Erro do Cliente - Erro na requisição pelo cliente.
 + 5xx: Erro do Servidor - Erro no processamento da requisição pelo servidor.
+
+  esses são apenas alguns exemplos 
 
 
 
